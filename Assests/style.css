@@ -107,6 +107,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
+
 .about h2 {
     color: #faf3dd;
     font-size: 50px;
@@ -120,6 +121,37 @@ p {
 .about p {
     color:#faf3dd;
 }
-/* end about style */
 
+/* end about style */
+.contact {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #8fc0a9;
+    color: #faf3dd;
+    position: sticky;
+}
+
+.contact h2 {
+    font-size 30px;
+    margin: 0;
+    display: inline-block;
+}
+
+.contact div {
+    padding: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+.contact div ul {
+    list-style-type: none;
+
+}
+
+.contact div ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
 /* start contact me style  */
