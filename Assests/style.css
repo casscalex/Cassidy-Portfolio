@@ -68,7 +68,6 @@ p {
     border-radius: 100%;
     display: block;
     margin: 0 auto 24px;
-    vertical-align: middle;
 }
 
 .hero h2 {
@@ -132,7 +131,7 @@ p {
 }
 
 .contact h2 {
-    font-size 30px;
+    font-size: 30px;
     margin: 0;
     display: inline-block;
 }
@@ -155,3 +154,15 @@ p {
     margin-left: 25px;
 }
 /* start contact me style  */
+
+/* work style start */
+.work {
+
+}
+
+.work img {
+    margin: auto;
+    width: 350px;
+    height: 350px;
+    border: 3px solid #68b0ab;
+}
